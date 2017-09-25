@@ -1,0 +1,1 @@
+text = " Alex calmly thought of his next move."

@@ -1,0 +1,1 @@
+text = "It was obvious to Alex that he was a talented jumper!";

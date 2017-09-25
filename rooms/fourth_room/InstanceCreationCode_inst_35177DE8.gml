@@ -1,0 +1,1 @@
+text = "It's crazy what a little self-assurance can do. ";

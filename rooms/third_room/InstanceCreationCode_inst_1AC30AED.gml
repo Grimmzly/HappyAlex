@@ -1,0 +1,1 @@
+text = "The stench alone would turn away most people.";

@@ -1,0 +1,1 @@
+text = "But.. Alex still didn't know anymore than before...";

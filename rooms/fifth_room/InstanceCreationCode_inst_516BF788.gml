@@ -1,0 +1,1 @@
+text = "The last bite of a great meal.";

@@ -1,0 +1,1 @@
+spawnSpeed = (room_speed * 2.5);

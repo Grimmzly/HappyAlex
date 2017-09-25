@@ -1,0 +1,1 @@
+text = "Good job. You killed a guy that just wanted friends.";

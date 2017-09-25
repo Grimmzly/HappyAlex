@@ -1,0 +1,1 @@
+text = "Yes, well.. That wasn't so bad. Not sure what all the fuss was about.."

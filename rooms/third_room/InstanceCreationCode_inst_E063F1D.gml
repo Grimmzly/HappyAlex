@@ -1,0 +1,1 @@
+text = "Thankfully for our protagonist, he had no sense of smell!";

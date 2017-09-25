@@ -1,0 +1,1 @@
+text = "Alex sees a man. He tries to get his attention. (Left Mouse Button)";

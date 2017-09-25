@@ -1,0 +1,1 @@
+text = "This is a walk through a meadow as far as he's concerned!";

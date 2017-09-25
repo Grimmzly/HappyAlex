@@ -1,0 +1,1 @@
+text = "You'd have to be crazy to be here!...";

@@ -1,0 +1,1 @@
+text = " The final-... Yes, well you know what I mean.";

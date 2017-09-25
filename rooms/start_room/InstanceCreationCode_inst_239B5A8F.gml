@@ -1,0 +1,1 @@
+text = "'I must be a superhero!' He thought";
